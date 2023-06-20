@@ -1,0 +1,145 @@
+.c1, .order{
+    background: #7287ae;
+    color: white;
+    margin-top: 0;
+}
+
+.nb:hover{
+    font-weight: 800;
+}
+
+.nav-link{
+    color: rgb(255, 255, 255);
+    width: 2.5cm;
+    font-size: 15;
+    text-align: center;
+}
+
+.nav-link:hover{
+    font-weight: 800;
+    color: white;
+}
+.b{
+    font-weight: 700;
+}
+.tit{
+    color:#7287ae;
+    font-weight: 700;
+}
+p{
+    color:black;
+}
+.c2{
+    padding-top: 3cm;
+    padding-bottom: 5cm;
+    background-color: #e3ecc2;
+    height: fit-content;
+}
+.card-title{
+    font-weight: 700;
+    color: rgb(67, 67, 67);
+    font-size: x-large;
+}
+
+.card{
+    border-radius:0;
+    margin-top: 1cm;
+    height: fit-content;
+    overflow-wrap:break-word;
+}
+img{
+    height: auto;
+    width: 100%;
+}
+.card-body{
+    text-align: justify;
+}
+.hf{
+    font-size: 2cm;
+    font-weight: 700;
+    padding-top: 3cm;
+    padding-bottom: 1cm;
+}
+
+.btn-primary{
+    background: #7287ae;
+    border-width: 0;
+    width: 15%;
+    width: fit-content;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 2cm;
+}
+.btn-primary:hover{
+    font-weight: bolder;
+}
+.discount{
+    font-size:2.5rem;
+    font-weight: 700;
+}
+.c31{
+    width: 50%;
+    height: auto;
+}
+.hto{
+    font-weight: 700;
+}
+.order{
+    margin-top: 1cm;
+}
+.nb2{
+    background: white;
+    border-radius: 15000px;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    padding: auto;
+    align-items: center;
+}
+.nb2 p{
+    font-weight: 1000;
+    font-size: 2cm;
+    color: #7287ae;
+
+}
+.title{
+    font-weight: 700;
+}
+.voucher{
+    width: 100%;
+    background-image:url("Bg.psd.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+    width: 100%;
+}
+.nav .container .navbar-nav{
+    float: right;
+    margin-left: auto;
+}
+.nav{
+    float: left;
+    margin: 0;
+    z-index: 1;
+    background-color: #7287ae;
+    position: fixed;
+    width: 100%;
+}
+.fd{
+    font-weight: 800;
+    font-size: 2cm;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.bl{
+    color: #536991;
+}
+.on{
+    margin: auto;
+}
+.footer{
+    height: 200px;
+    background-color: #7287ae;
+}
+.all{
+    justify-content: space-between;
+}
